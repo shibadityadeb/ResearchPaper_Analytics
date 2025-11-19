@@ -91,10 +91,4 @@ Average citation comparison between interdisciplinary and single-discipline pape
 - Integrate **network analysis graphs** for author and keyword co-occurrence.  
 - Publish a research report or paper based on findings.
 
----
 
-## 👨‍💻 Author
-
-**Shibaditya Deb**  
-Frontend Developer | AI & ML Enthusiast | Research Analyst  
-📎 [LinkedIn](https://www.linkedin.com/in/shibadityadeb) | [GitHub](https://github.com/shibadityadeb)
